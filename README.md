@@ -1,2 +1,2 @@
-# portfolio
-Here lies basic information about further projects i have been working on
+# portfoli
+Here lies general information about  projects i have been working on
